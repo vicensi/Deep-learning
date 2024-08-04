@@ -27,8 +27,10 @@ Aplicações e exemplos práticos
 
 Construção de uma rede neural para classificação de dígitos manuscritos utilizando a base de dados MNIST.
 
-#Gerador de Imagens com GANs:
+# Gerador de Imagens com GANs:
 Criação de uma rede adversarial generativa para geração de imagens de alta qualidade.
+
+# Modelo Transformer
 
 # Projetos criados pra compra e venda de ativos
 
